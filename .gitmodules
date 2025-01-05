@@ -1,0 +1,3 @@
+[submodule "redcon.c"]
+	path = redcon.c
+	url = https://github.com/tidwall/redcon.c
